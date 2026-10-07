@@ -1,4 +1,3 @@
-```python
 import discord
 from discord.ext import commands
 import asyncio
@@ -676,4 +675,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-```
